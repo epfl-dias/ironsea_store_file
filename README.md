@@ -1,6 +1,6 @@
 # Iron Sea - Store File
 
-This implements buffered read / write to and from files for the Iron Sea database toolkit structures which complies with the `Store` and `Load` traits.
+This implements read / write to and from files for the Iron Sea database toolkit structures which complies with the `Store` and `Load` traits.
 
 ## Iron Sea: Database Toolkit
 
